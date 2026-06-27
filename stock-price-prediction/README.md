@@ -87,7 +87,7 @@ pip install yfinance scikit-learn pandas numpy matplotlib
 
 3. Open the notebook
    ```bash
-   jupyter notebook stock_price_prediction.ipynb
+   jupyter notebook stock-price-prediction.ipynb
    ```
 
 4. Run all cells in order (`Kernel → Restart & Run All`)

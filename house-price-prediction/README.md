@@ -100,7 +100,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. Launch Jupyter Notebook:
    ```bash
-   jupyter notebook house_price_prediction.ipynb
+   jupyter notebook house-price-prediction.ipynb
    ```
 
 4. Run all cells top to bottom (`Kernel → Restart & Run All`).

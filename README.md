@@ -10,7 +10,7 @@ A collection of machine learning projects completed as part of an AI/ML internsh
 AI-ML-Internship-Tasks/
 ├── data-visualization/
 ├── heart-disease-prediction/
-├── house-price_prediction/
+├── house-price-prediction/
 └── stock-price-prediction/
 ```
 

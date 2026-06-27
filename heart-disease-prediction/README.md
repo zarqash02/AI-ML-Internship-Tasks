@@ -99,7 +99,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 ### 4. Run the notebook
 ```bash
-jupyter notebook heart_disease_prediction.ipynb
+jupyter notebook heart-disease-prediction.ipynb
 ```
 
 ---
