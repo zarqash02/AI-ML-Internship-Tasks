@@ -112,6 +112,5 @@ Then navigate to any task folder and open the `.ipynb` file.
 
 ## Author
 
-**Zarqash**  
-BS Artificial Intelligence  
+**Zarqash**    
 [GitHub](https://github.com/zarqash02)
